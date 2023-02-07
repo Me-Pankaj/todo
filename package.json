@@ -1,7 +1,6 @@
 {
-  "name": "todo",
+  "name": "todoss",
   "homepage": "http://Me-Pankaj.github.io/todo/",
-  "homgerepage": "http://Me-Pankaj.github.io/todo/",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
